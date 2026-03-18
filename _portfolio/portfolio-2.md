@@ -10,7 +10,7 @@ Work selected as 'Hot Paper' in [Angewandte Chemie](https://onlinelibrary.wiley.
 
 <div style="text-align:center;">
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202301678)" target="_blank">
-<img src="/images/polydopamine_paper.jpg" width="800" style="display:inline;margin-right:20px;">
+<img src="/images/Polydopamine_paper.jpg" width="800" style="display:inline;margin-right:20px;">
 </a>
 <img src="/images/TOC2.jpg" width="400" style="display:inline;">
 </div>
