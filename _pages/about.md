@@ -24,6 +24,8 @@ My specialisation is in the characterisation of materials and devices, using tec
 
 I have predominantly researched various forms of metal halide perovskite semiconductors, including nanomaterials (2D 'layered' perovskites, 1D nanowires, 0D quantum dots). 
 
+I am also a keen follower of progress in fundamental physics and have a general interest in biology.
+
 Background
 ======
 In 2015, I completed my Bachelors (BEng) in Electrical and Electronic Engineering from Cardiff University. 
