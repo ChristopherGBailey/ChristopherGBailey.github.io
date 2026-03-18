@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/microscopy.jpg" style="float: right; margin-left: 20px; margin-bottom: 10px; margin-right: -200px;" width="300">
+<img src="/images/Microscopy.jpg" style="float: right; margin-left: 20px; margin-bottom: 10px; margin-right: -200px;" width="300">
 
 I am a Welsh-Australian researcher and educator, currently working as a Research Fellow at the [University of Sydney](https://profiles.sydney.edu.au/christopher.bailey). My broad research interest is in the physics of new functional materials. This includes materials related to:
 

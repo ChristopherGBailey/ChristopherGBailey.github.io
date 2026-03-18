@@ -15,7 +15,7 @@ Photoluminescence
 
 ### What is photoluminescence?
 
-<img src="/images/presentation2.gif" style="float: right; margin-left: 20px; margin-bottom: 10px; margin-right: -220px;margin-top: 150px;" width="500">
+<img src="/images/Presentation2.gif" style="float: right; margin-left: 20px; margin-bottom: 10px; margin-right: -220px;margin-top: 150px;" width="500">
 
 When light is absorbed by a material, the energy must go somewhere. One possibility is that the energy is released in the form of light once again, following the exact reverse process of light absorption. We call this process **photoluminescence**, referring to luminescence (emission of light), following the process of light absorption. 
 
@@ -26,7 +26,7 @@ When light is absorbed by a material, the energy must go somewhere. One possibil
 Photoluminescence experiments can tell us a lot of information about processes occurring in a material following the absorption of light. This is important for materials used in energy conversion (such as solar cells) or light emission. These are often **semiconductor materials**, used in many technologies. Measuring the photoluminescence spectrum can tell us about their fundamental properties and potential defects. Measuring the duration of photoluminescence events can tell us how long free electrons survive following light absorption, which is key if we want enough time extract them to use for electrical power.
 
 <figure style="display:block; text-align:center; margin: 0 auto;">
-  <img src="/images/abs_PL.jpg" style="width:400px; display:block; margin: 0 auto;">
+  <img src="/images/Abs_PL.jpg" style="width:400px; display:block; margin: 0 auto;">
   <figcaption style="text-align:center; font-style:italic; font-size:1em; color:inherit;">Absorption and photoluminescence spectra of perovskite quantum dots from <a href="https://doi.org/10.1016/j.solmat.2021.111406">Solar Energy Materials and Solar Cells, 234, 111406 (2022)</a>. The photo shows quantum dots emitting green light after absorbing UV light.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Magneto-photoluminescence
 
 If we record a photoluminescence spectrum from a material while applying an external magnetic field, we may see a difference which gives us further information about the energy states of electrons or excitons. An example of this **magneto-photoluminescence** of exciton emission in [2D perovskite materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202501593) is shown where the light emitted changes colour under a magnetic field. By looking at magneto-photoluminescence under a microscope, we can reveal different localised populations of excitons in the material. 
 
-<img src="/images/presentation5.gif" style="float: right; margin-left: 50px; margin-bottom: 50px; margin-right: 60px;margin-top: 10px;" width="600">
+<img src="/images/Presentation5.gif" style="float: right; margin-left: 50px; margin-bottom: 50px; margin-right: 60px;margin-top: 10px;" width="600">
 
 <div style="clear:both;"></div>
 
