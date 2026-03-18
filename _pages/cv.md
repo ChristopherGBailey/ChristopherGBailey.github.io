@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Associate Fellowship (Educational Fellowship), Advance HE, University of Sydney, 2025
+* PhD in Physics, University of Southampton, 2015–2019
+* BEng Electrical and Electronic Engineering (First Class Honours), Cardiff University, 2012–2015
 
-Work experience
+Employment History
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Fellow (Level B)**, School of Physics, University of Sydney, 2023–Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Associate (Level A)**, School of Physics / Centre of Excellence in Exciton Science, UNSW, 2020–2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Postgraduate Researcher (PhD)**, School of Physics and Astronomy, University of Southampton, 2016–2019
+
+* **Electrical Engineer Intern**, Arup, Cardiff, Wales, Summer 2014
+
+
+Academic Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Event Organisation
+
+* Lead Organiser - Quantum Light and Matter Summer School 2017, Isle of Wight, United Kingdom
+* Lead Organiser - Quantum Light and Matter Summer School 2018, Bournemouth, United Kingdom
+* Lead Organiser - Tutorial on time-correlated single photon counting, Centre for Doctoral Training in New and Sutainable Photovoltaics, University of Southampton, 2016, 2017, 2018
+* Organiser -	ARC Centre of Excellence in Exciton Science EDI committee event at the annual workshop in Lorne 2022
+
+### Comittees
+* Representatitve -  Equity, diversity, and inclusion committee, ARC Centre of Excellence in Exciton Science
+* Representatitve -  Equity, diversity, and inclusion committee, School of Physics, University of Sydney
+
+### Outreach
+* Physics Unboxed — Lab tour for high school students, University of Sydney, 2025
+* Kanga's House childcare centre virtual lab tour, UNSW, 2020
+* ISS2023 Meet a Researcher, University of Sydney, 2023
+* Youth in Motion - Free tutoring for disadvantaged students, Sydney, 2025
 
 Publications
 ======
@@ -50,7 +54,7 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -58,7 +62,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

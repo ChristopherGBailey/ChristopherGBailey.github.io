@@ -1,22 +1,47 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Influencing Magneto-Optical Properties of 2D Perovskites<br />Asia-Pacific International Conference on Perovskite, Organic Photovoltaics and Optoelectronics (IPEROP26); Nagoya, Japan",
+    35.1851045,
+    136.8998438
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Using Magneto-Optical Microscopy to Understand Excitons in 2D Perovskites<br />Asia-Pacific Solar Research Conference (APSRC); Sydney, Australia",
+    -33.8698439,
+    151.2082848
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Effect of Organic Spacer Cation on Dark Excitons in 2D Perovskites via Magneto-Optical Spectroscopy<br />Asia-Pacific Solar Research Conference (APSRC); RMIT, Melbourne, Australia",
+    -37.6797246,
+    145.0602993
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Effect of Light Soaking and Ambient Conditions on Charge Carrier Dynamics in CH3NH3PbI3 and CH3NH3PbI3-xClx Thin Films<br />Hybrid and Organic Photovoltaics (HOPV); Lausanne, Switzerland",
+    46.5218269,
+    6.6327025
+  ],
+  [
+    "Effect of illumination and ambient conditions on recombination dynamics in CH3\u00acNH3PbI3 thin films<br />PLMCN-20; Moscow, Russia",
+    55.625578,
+    37.6063916
+  ],
+  [
+    "Phonon-assisted Trapping of Carriers in Lead Halide Perovskites<br />Hybrid and Organic Photovoltaics (HOPV); Rome, Italy",
+    41.8933203,
+    12.4829321
+  ],
+  [
+    "Effect of Organic Spacer Cation on Dark Excitons in 2D Perovskites via Magneto-Optical Spectroscopy<br />Asian Photochemistry Conference; Melbourne, Australia",
+    -37.8142454,
+    144.9631732
+  ],
+  [
+    "Photoreactivity of polydopamine radicals under visible light excitation<br />RACI 2022 National Congress; Brisbane, Australia",
+    -27.365991,
+    152.948963
+  ],
+  [
+    "Inverted Planar Perovskite Solar Cells with Hybrid Quantum Dot-PEDOT:PSS Hole-Transporting Layer<br />UK Semiconductors 2018; Sheffield Hallam University, Sheffield, UK",
+    53.3817264,
+    -1.4627951
   ]
 ];

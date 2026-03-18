@@ -1,0 +1,23 @@
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h3 class="archive__item-title" itemprop="headline" style="margin-bottom: 4px;">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </h3>
+
+    {% if post.authors and post.authors != "" %}
+      <p style="font-size: 0.82em; color: #444; margin: 2px 0;">{{ post.authors | replace: " and ", ", " }}</p>
+    {% endif %}
+
+    {% if post.venue and post.venue != "" %}
+      <p style="font-size: 0.95em; color: #222; margin: 2px 0;">
+        <i>{{ post.venue }}</i>
+        {% if post.date and post.date != "2000-01-01" %}, {{ post.date | date: "%Y" }}{% endif %}
+      </p>
+    {% endif %}
+
+  </article>
+</div>

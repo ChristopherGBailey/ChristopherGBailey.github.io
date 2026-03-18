@@ -53,3 +53,8 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
 }
+/* * Custom styles for the dark theme
+ */
+[data-theme="dark"] .archive__item p {
+  color: #ffffff !important;
+}
