@@ -71,7 +71,7 @@ Here, the coefficients $c_i$ and $d_i$ are magnetic field-dependent and are func
 
 The effect we observe is a brightening of the zero-field dark exciton state and a darkening of the bright exciton state photoluminescence.
 
-<img src="/images/Dark_ex.jpg" style="float: right; margin-left: 30px; margin-bottom: 50px; margin-right: 20px;margin-top: 10px;" width="700">
+<img src="/images/dark_ex.jpg" style="float: right; margin-left: 30px; margin-bottom: 50px; margin-right: 20px;margin-top: 10px;" width="700">
 
 <div style="clear:both;"></div>
 
