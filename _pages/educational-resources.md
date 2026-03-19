@@ -55,9 +55,9 @@ Some materials have exciton states which can absorb and emit light, while also h
 
 ### Excitons in 2D perovskites
 
-In 2D perovskites such as (PEA)$_2$PbI$_4$, we can identify bright and dark exciton states by using magneto-optical spectroscopy, such as magneto-photoluminescence (described above). 
+In 2D perovskites such as (PEA)$_2$PbI$_4$ there are three bright excitons, each with total angular momentum of one ($J=1$), and one dark exciton with $J=0$. We can identify bright and dark exciton states by using magneto-optical spectroscopy, such as magneto-photoluminescence (described above). 
 
-Under a magnetic field, $B$, in the Voigt geometry, the four zero-field exciton states ($\vert BX_x\rangle$, $\vert BX_y\rangle$, $\vert BX_z\rangle$, and $\vert DX\rangle$) for (PEA)$_2$PbI$_4$ are mixed to form four new states, which can be represented by,
+Under a magnetic field, $B$, in the Voigt geometry, the four zero-field exciton states ($\vert BX_x\rangle$, $\vert BX_y\rangle$, $\vert BX_z\rangle$ (bright excitons), and $\vert DX\rangle$) (dark exciton) for (PEA)$_2$PbI$_4$ are mixed to form four new states, which can be represented by,
 
 $\vert\psi_\parallel^1\rangle = c_1 \vert DX\rangle + d_1(\vert BX_x\rangle - \vert BX_y\rangle) \tag{1}$
 
@@ -78,7 +78,7 @@ The effect we observe is a brightening of the zero-field dark exciton state and 
 Elliott's theory for optical absorption
 ======
 
-If we obtain an optical absorption spectrum of a material, we can model it using <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.1384">Elliott's' theory</a> to obtain an estimate of useful material properties such as the exciton binding energy and bandgap. According to the model, the absorption coefficient is given by,
+If we obtain an optical absorption spectrum of a material, we can model it using <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.1384">Elliott's' theory</a> to obtain an estimate of useful material properties such as the exciton binding energy and bandgap. The model accounts for both exciton and free carrier absorption, with the absorption coefficient given by,
 
 <img src="/images/Elliott_eq.jpg" style="float: right; margin-left: 70px; margin-bottom: 50px; margin-right: 30px;margin-top: 10px;" width="700">
 
