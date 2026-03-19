@@ -57,7 +57,7 @@ Some materials have exciton states which can absorb and emit light, while also h
 
 In 2D perovskites such as (PEA)$_2$PbI$_4$ there are three bright excitons, each with total angular momentum of one ($J=1$), and one dark exciton with $J=0$. We can identify bright and dark exciton states by using magneto-optical spectroscopy, such as magneto-photoluminescence (described above). 
 
-Under a magnetic field, $B$, in the Voigt geometry, the four zero-field exciton states ($\vert BX_x\rangle$, $\vert BX_y\rangle$, $\vert BX_z\rangle$ (bright excitons), and $\vert DX\rangle$) (dark exciton) for (PEA)$_2$PbI$_4$ are mixed to form four new states, which can be represented by,
+Under a magnetic field, $B$, in the Voigt geometry, the four zero-field exciton states $\vert BX_x\rangle$, $\vert BX_y\rangle$, $\vert BX_z\rangle$ (bright excitons), and $\vert DX\rangle$ (dark exciton) for (PEA)$_2$PbI$_4$ are mixed to form four new states, which can be represented by,
 
 $\vert\psi_\parallel^1\rangle = c_1 \vert DX\rangle + d_1(\vert BX_x\rangle - \vert BX_y\rangle) \tag{1}$
 
