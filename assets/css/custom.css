@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  img {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    float: none !important;
+    display: block !important;
+    width: 90% !important;
+    max-width: 90% !important;
+  }
+}
