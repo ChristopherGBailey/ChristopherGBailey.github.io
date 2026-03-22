@@ -87,3 +87,5 @@ where $E$ is the photon energy, $A$ is a scaling factor that accounts for the tr
 <img src="/images/Elliott_plot.jpg" style="float: right; margin-left: 30px; margin-bottom: 50px; margin-right: 120px;margin-top: 10px;" width="500">
 
 <div style="clear:both;"></div>
+
+<iframe src="/assets/html/elliott_model.html" width="100%" height="500px" frameborder="0" style="border-radius: 8px;"></iframe>
