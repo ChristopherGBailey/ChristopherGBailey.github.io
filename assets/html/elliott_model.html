@@ -88,7 +88,17 @@ const chart = new Chart(document.getElementById('elliottChart').getContext('2d')
     { data: [], borderColor: '#1d9e75', borderWidth: 1.5, borderDash: [4,3], pointRadius: 0, tension: 0.3 },
   ]},
   options: { responsive: true, maintainAspectRatio: false, animation: false, plugins: { legend: { display: false } },
-    scales: { x: { title: { display: true, text: 'Photon energy (eV)' }, ticks: { maxTicksLimit: 8 } }, y: { title: { display: true, text: 'Absorption (arb. units)' }, min: 0 } } }
+    scales: {
+  x: {
+    title: { display: true, text: 'Photon energy (eV)', font: { size: 14 } },
+    ticks: { maxTicksLimit: 8, font: { size: 13 } }
+  },
+  y: {
+    title: { display: true, text: 'Absorption (arb. units)', font: { size: 14 } },
+    ticks: { font: { size: 13 } },
+    min: 0
+  }
+} }
 });
 function update() {
   const Eg = parseFloat(document.getElementById('Eg').value);
