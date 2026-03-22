@@ -88,4 +88,6 @@ where $E$ is the photon energy, $A$ is a scaling factor that accounts for the tr
 
 <div style="clear:both;"></div>
 
+The slider below allows you to visualise the effect of bandgap energy and exciton binding energy on the optical absorption spectrum of a semiconductor. The broadening parameter accounts for the effect of temperature, with larger broadening values observed at higher temperatures.
+
 <iframe src="/assets/html/elliott_model.html" width="100%" height="500px" frameborder="0" style="border-radius: 8px;"></iframe>
