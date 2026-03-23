@@ -10,6 +10,11 @@ redirect_from:
 
 This page contains some useful information to those studying or researching optical process in semiconductors, especially in the context of optoelectronics. It starts with an overview aimed at a general audience to get an idea of the science related to my research. Further down the page contains more technical content, intended to be a bridge between textbook fundamental science and research of next generation materials. I will aim update this page over time.
 
+**Contents:**
+
+* TOC
+{:toc}
+
 Photoluminescence
 ======
 
