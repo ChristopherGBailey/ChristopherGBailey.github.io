@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-This page contains some useful information to those studying or researching optical process in semiconductors, especially in the context of optoelectronics. It starts with an overview aimed at a general audience to get an idea of the science related to my research. Further down the page contains more technical content, intended to be a bridge between textbook fundamental science and research of next generation materials. I will aim update this page over time.
+This page contains some useful information to those studying or researching optical process in semiconductors, especially in the context of optoelectronics. It starts with an overview aimed at a general audience to get an idea of the science related to my research. Further down the page contains more technical content, intended to be a bridge between university-level textbook science and research of next generation materials. I will aim update this page over time.
 
 **Contents:**
 
@@ -22,13 +22,13 @@ Photoluminescence
 
 <img src="/images/Presentation2.gif" style="float: right; margin-left: 20px; margin-bottom: 10px; margin-right: -220px;margin-top: 150px;" width="500">
 
-When light is absorbed by a material, the energy must go somewhere. One possibility is that the energy is released in the form of light once again, following the exact reverse process of light absorption. We call this process **photoluminescence**, referring to luminescence (emission of light), following the process of light absorption. 
+When light is absorbed by a material, the energy must go somewhere. One possibility is that the energy is released in the form of light, in the reverse process of light absorption. We call this process **photoluminescence**, referring to luminescence (emission of light) following the process of light absorption. 
 
  Shown on the right, the energy of an absorbed photon is first transferred to an electrical charge (electron). The electron returns to the lower energy state over time, releasing energy as a photon. Due to a small amount of energy lost as heat, the emitted photon may have a different energy (colour or wavelength) than the absorbed photon. We can measure the energy of the photons emitted and obtain a **photoluminescence spectrum** or measure the time taken for the emission of a photon to obtain the **photoluminescence lifetime**.
 
 ### What makes photoluminescence so interesting or useful?
 
-Photoluminescence experiments can tell us a lot of information about processes occurring in a material following the absorption of light. This is important for materials used in energy conversion (such as solar cells) or light emission. These are often **semiconductor materials**, used in many technologies. Measuring the photoluminescence spectrum can tell us about their fundamental properties and potential defects. Measuring the duration of photoluminescence events can tell us how long free electrons survive following light absorption, which is key if we want enough time extract them to use for electrical power.
+Photoluminescence experiments can tell us a lot of information about processes occurring in a material following the absorption of light. This is important for materials used in energy harvesting devices (such as solar cells) or light emitting devices (such as LEDs or lasers). These are often **semiconductor materials**, used widely in many technologies. Measuring the photoluminescence spectrum can tell us about their fundamental properties and potential defects. Measuring the duration of photoluminescence events can tell us how long free electrons survive following light absorption, which is key if we want enough time to extract them for electrical power.
 
 <figure style="display:block; text-align:center; margin: 0 auto;">
   <img src="/images/Abs_PL.jpg" style="width:400px; display:block; margin: 0 auto;">
