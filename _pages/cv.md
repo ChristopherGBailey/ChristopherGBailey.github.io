@@ -45,6 +45,16 @@ Academic Service
 * ISS2023 Meet a Researcher, University of Sydney, 2023
 * Youth in Motion - Free tutoring for disadvantaged students, Sydney, 2025
 
+Awards and Achievements
+======
+
+* 95.5% of articles in the top 10% journals (SJR), 2026
+* Research featured on front cover of Advanced Energy Materials, 2025
+* Article highlighted as ’Hot Paper’ in Angewandte Chemie, 2023
+* CDT-PV showcase poster prize, 2018
+* Cardiff University Excellence Scholarship, 2012
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
