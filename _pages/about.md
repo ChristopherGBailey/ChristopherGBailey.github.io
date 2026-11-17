@@ -22,7 +22,7 @@ I specialise in experimental techniques spanning optical spectroscopy and micros
 
 A large focus of my research has been on various forms of metal halide perovskite semiconductors, including nanomaterials (2D 'layered' perovskites, 1D nanowires, 0D quantum dots). 
 
-I love teaching physics, photonics and experimental methods, having contributed to over ten units of study across three world top-100 universities. I have an Associate Fellowship from Advance HE (AFHEA) in recognition of my teaching. I also mentor students and early-career researchers in many areas of study.
+I love teaching physics, photonics, and experimental methods, having contributed to over ten units of study across three world top-100 universities. I have an Associate Fellowship from Advance HE (AFHEA) in recognition of my teaching. I also mentor students and early-career researchers in many areas of study.
 
 Outside my immediate research, I also like to follow progress in fundamental physics and have a general interest in biology.
 
