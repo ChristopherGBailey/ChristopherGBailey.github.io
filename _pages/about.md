@@ -9,7 +9,7 @@ redirect_from:
 
 <img src="/images/Microscopy.jpg" style="float: right; margin-left: 20px; margin-bottom: 10px; margin-right: -200px;" width="300">
 
-I am a Welsh-Australian researcher and educator, currently working as a Postdoctoral Research Fellow at the [University of Technology Sydney (UTS)](https://profiles.uts.edu.au/Chris.Bailey) in quantum spectroscopy and microscopy as part of the Australian Research Council (ARC) Centre of Excellence in Quantum Biotechnology (QUBIC). My work brings together optical spectroscopy, microscopy, photonics and materials physics. My research interests include:
+I am a Welsh-Australian researcher and educator, currently working as a Postdoctoral Research Fellow at the [University of Technology Sydney (UTS)](https://profiles.uts.edu.au/Chris.Bailey) in quantum spectroscopy and microscopy, as part of the Australian Research Council (ARC) Centre of Excellence in Quantum Biotechnology (QUBIC). My work brings together optical spectroscopy, microscopy, photonics and materials physics. My research interests include:
 
 - optical microscopy and spectroscopy
 - optoelectronic and photonic materials
