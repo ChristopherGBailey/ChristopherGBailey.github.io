@@ -36,4 +36,4 @@ In 2020, I moved to Sydney, Australia to join the University of New South Wales 
 
 In 2023, I was appointed Research Fellow at the University of Sydney. Here, I continued studies on the magneto-optical properties of excitons in 2D materials and characterisation of new technology for solar energy conversion. During this role, I worked with [EurokaPower](https://www.eurokapower.com/) on the integration of next-generation solar power for spacecraft.
 
-In 2026, I joined UTS and QUBIC, where I investigate novel methods of quantum spectroscopy and microscopy including their biomedical applications.
+In 2026, I joined UTS and QUBIC, where I investigate novel methods of quantum spectroscopy and microscopy, including their biomedical applications.
